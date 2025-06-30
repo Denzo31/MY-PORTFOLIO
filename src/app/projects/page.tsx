@@ -12,7 +12,7 @@ const projects = [
     title: 'E-commerce Platform',
     description: 'A full-featured e-commerce platform with product listings, cart functionality, payment processing, and user authentication.',
     technologies: ['React', 'Node.js', 'MongoDB', 'Express', 'Stripe'],
-    image: '/projects/ecommerce-bg.svg',
+    image: '/ecommerce.png',
     demoLink: 'https://example.com/demo1',
     githubLink: 'https://github.com/username/project1'
   },
@@ -21,7 +21,7 @@ const projects = [
     title: 'Task Management App',
     description: 'A collaborative task management application with real-time updates, team assignment, and progress tracking.',
     technologies: ['React', 'Firebase', 'Tailwind CSS', 'Redux'],
-    image: '/projects/task-management.svg',
+    image: '/task management app image.png',
     demoLink: 'https://example.com/demo2',
     githubLink: 'https://github.com/username/project2'
   },
@@ -30,7 +30,7 @@ const projects = [
     title: 'Weather Dashboard',
     description: 'A responsive weather dashboard that displays current conditions and forecasts for multiple locations using weather API data.',
     technologies: ['JavaScript', 'HTML/CSS', 'OpenWeather API'],
-    image: '/projects/weather-dashboard.svg',
+    image: '/weather app image.png',
     demoLink: 'https://example.com/demo3',
     githubLink: 'https://github.com/username/project3'
   },
@@ -39,7 +39,7 @@ const projects = [
     title: 'Student Registration System',
     description: 'A Java-based student registration system with course enrollment, schedule management, and grade tracking.',
     technologies: ['Java', 'Spring Boot', 'MySQL', 'Thymeleaf'],
-    image: '/projects/student-registration.svg',
+    image: '/student registration form.png',
     demoLink: 'https://example.com/demo4',
     githubLink: 'https://github.com/username/project4'
   }
