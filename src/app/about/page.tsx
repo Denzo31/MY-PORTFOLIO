@@ -80,17 +80,17 @@ export default function AboutPage() {
             </h2>
             <div className="space-y-4 text-gray-700 dark:text-gray-300">
               <p>
-                Hello! I'm Derrick, a passionate Full Stack Developer with a strong foundation in both frontend and backend technologies.
+                Hello! I&apos;m Derrick, a passionate Full Stack Developer with a strong foundation in both frontend and backend technologies.
                 I specialize in creating responsive, user-friendly web applications with modern frameworks like React and Next.js.
               </p>
               <p>
                 With a background in computer science and real-world project experience, I enjoy tackling complex 
-                problems and building elegant solutions. I'm constantly learning new technologies to stay at the cutting edge
+                problems and building elegant solutions. I&apos;m constantly learning new technologies to stay at the cutting edge
                 of web development.
               </p>
               <p>
-                When I'm not coding, I enjoy contributing to open-source projects, sharing knowledge with the developer 
-                community, and exploring new technologies. I believe that good software can make a positive impact on people's lives.
+                When I&apos;m not coding, I enjoy contributing to open-source projects, sharing knowledge with the developer 
+                community, and exploring new technologies. I believe that good software can make a positive impact on people&apos;s lives.
               </p>
             </div>
 

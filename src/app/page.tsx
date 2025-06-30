@@ -73,7 +73,7 @@ export default function Home() {
           </div>
           
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4 text-gray-900 dark:text-white">
-            <span className="text-emerald-600 dark:text-emerald-400">Hello, I'm</span> SHEMA
+            <span className="text-emerald-600 dark:text-emerald-400">Hello, I&apos;m</span> SHEMA
           </h1>
           <p className="text-lg md:text-xl text-gray-700 dark:text-gray-300 mb-8 max-w-2xl mx-auto">
             A passionate Full Stack Developer with expertise in React, Next.js, and Java. 
@@ -211,7 +211,7 @@ export default function Home() {
               Interested in working together?
             </h2>
             <p className="text-lg text-emerald-100 mb-8 max-w-2xl mx-auto">
-              Let's discuss how I can help you achieve your goals with my technical expertise and creative problem-solving skills.
+              Let&apos;s discuss how I can help you achieve your goals with my technical expertise and creative problem-solving skills.
             </p>
             <Link
               href="/contact"

@@ -1,0 +1,39 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f0f9ff" />
+  
+  <!-- Header -->
+  <rect x="50" y="50" width="700" height="80" rx="10" fill="#0ea5e9" />
+  <text x="100" y="100" font-family="Arial" font-size="30" fill="white">Task Management App</text>
+  <circle cx="650" cy="90" r="20" fill="white" />
+  <text x="645" y="98" font-family="Arial" font-size="24" fill="#0ea5e9">📋</text>
+  
+  <!-- Task Board -->
+  <rect x="50" y="160" width="220" height="400" rx="10" fill="white" stroke="#e2e8f0" stroke-width="2" />
+  <rect x="290" y="160" width="220" height="400" rx="10" fill="white" stroke="#e2e8f0" stroke-width="2" />
+  <rect x="530" y="160" width="220" height="400" rx="10" fill="white" stroke="#e2e8f0" stroke-width="2" />
+  
+  <!-- Column Headers -->
+  <rect x="60" y="170" width="200" height="40" rx="5" fill="#e2e8f0" />
+  <text x="130" y="195" font-family="Arial" font-size="16" fill="#475569">To Do</text>
+  
+  <rect x="300" y="170" width="200" height="40" rx="5" fill="#e2e8f0" />
+  <text x="360" y="195" font-family="Arial" font-size="16" fill="#475569">In Progress</text>
+  
+  <rect x="540" y="170" width="200" height="40" rx="5" fill="#e2e8f0" />
+  <text x="610" y="195" font-family="Arial" font-size="16" fill="#475569">Done</text>
+  
+  <!-- To Do Tasks -->
+  <rect x="60" y="220" width="200" height="80" rx="5" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1" />
+  <rect x="60" y="310" width="200" height="80" rx="5" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1" />
+  <rect x="60" y="400" width="200" height="80" rx="5" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1" />
+  
+  <!-- In Progress Tasks -->
+  <rect x="300" y="220" width="200" height="80" rx="5" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1" />
+  <rect x="300" y="310" width="200" height="80" rx="5" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1" />
+  
+  <!-- Done Tasks -->
+  <rect x="540" y="220" width="200" height="80" rx="5" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1" />
+  <rect x="540" y="310" width="200" height="80" rx="5" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1" />
+  <rect x="540" y="400" width="200" height="80" rx="5" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1" />
+</svg> 

@@ -4,13 +4,14 @@ import React, { useState, useEffect } from 'react';
 import { useTheme } from '@/lib/ThemeContext';
 
 export default function HomeContent() {
-  // Safe access to theme with client-side only rendering
   const [isMounted, setIsMounted] = useState(false);
+  const theme = useTheme();
   
   useEffect(() => {
     setIsMounted(true);
   }, []);
   
+  // Show loading state while client-side rendering is happening
   if (!isMounted) {
     return (
       <div className="min-h-screen bg-gray-50 dark:bg-gray-950">
@@ -18,9 +19,8 @@ export default function HomeContent() {
       </div>
     );
   }
-  
-  // Only access theme after component is mounted
-  const { isDarkMode } = useTheme();
+
+  const { isDarkMode } = theme;
   
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-950 text-gray-900 dark:text-gray-100">

@@ -112,9 +112,8 @@ export default function RegisterPage() {
                   <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">
                     Registration Successful!
                   </h3>
-                  <p className="text-gray-700 dark:text-gray-300 text-center">
-                    Thank you, {formData.name}! You've been registered for {courses.find(c => c.id === formData.course)?.name}.
-                    Your registration has been saved.
+                  <p className="text-gray-700 dark:text-gray-300 text-center max-w-md">
+                    Thank you for registering! We&apos;ll be in touch soon.
                   </p>
                 </div>
               ) : (
