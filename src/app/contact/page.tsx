@@ -137,7 +137,7 @@ export default function ContactPage() {
                     Message Sent Successfully!
                   </h3>
                   <p className="text-gray-700 dark:text-gray-300 text-center max-w-md">
-                    Thank you for your message. I'll get back to you as soon as possible.
+                    Thank you for your message. I&apos;ll get back to you as soon as possible.
                   </p>
                 </div>
               ) : (

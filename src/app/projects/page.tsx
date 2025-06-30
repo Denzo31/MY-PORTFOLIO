@@ -60,7 +60,7 @@ export default function ProjectsPage() {
             My <span className="text-indigo-600 dark:text-indigo-400">Projects</span>
           </h1>
           <p className="text-lg text-gray-700 dark:text-gray-300 max-w-3xl mx-auto">
-            Here's a selection of my recent work. Each project represents different skills and technologies I've mastered.
+            Here&apos;s a selection of my recent work that showcases my skills and passion for building exceptional web applications.
           </p>
         </motion.div>
 
