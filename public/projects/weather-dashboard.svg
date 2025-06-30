@@ -1,0 +1,54 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f0fdfa" />
+  
+  <!-- Header -->
+  <rect x="50" y="50" width="700" height="80" rx="10" fill="#14b8a6" />
+  <text x="100" y="100" font-family="Arial" font-size="30" fill="white">Weather Dashboard</text>
+  <circle cx="650" cy="90" r="20" fill="white" />
+  <text x="645" y="98" font-family="Arial" font-size="24" fill="#14b8a6">🌤️</text>
+  
+  <!-- Main Weather Card -->
+  <rect x="50" y="160" width="460" height="200" rx="10" fill="white" stroke="#e2e8f0" stroke-width="2" />
+  <text x="80" y="200" font-family="Arial" font-size="24" fill="#334155">New York City</text>
+  <text x="80" y="240" font-family="Arial" font-size="48" fill="#334155">72°</text>
+  <text x="80" y="280" font-family="Arial" font-size="18" fill="#64748b">Partly Cloudy</text>
+  <text x="80" y="310" font-family="Arial" font-size="14" fill="#94a3b8">H: 78° L: 65°</text>
+  
+  <circle cx="400" cy="240" r="60" fill="#fde68a" />
+  <circle cx="420" cy="220" r="70" fill="#f0fdfa" />
+  
+  <!-- Forecast Cards -->
+  <rect x="530" y="160" width="220" height="80" rx="10" fill="white" stroke="#e2e8f0" stroke-width="2" />
+  <text x="550" y="190" font-family="Arial" font-size="14" fill="#64748b">Monday</text>
+  <text x="550" y="220" font-family="Arial" font-size="18" fill="#334155">75°</text>
+  <text x="640" y="205" font-family="Arial" font-size="24" fill="#14b8a6">☀️</text>
+  
+  <rect x="530" y="250" width="220" height="80" rx="10" fill="white" stroke="#e2e8f0" stroke-width="2" />
+  <text x="550" y="280" font-family="Arial" font-size="14" fill="#64748b">Tuesday</text>
+  <text x="550" y="310" font-family="Arial" font-size="18" fill="#334155">68°</text>
+  <text x="640" y="295" font-family="Arial" font-size="24" fill="#14b8a6">🌧️</text>
+  
+  <!-- Weather Details -->
+  <rect x="50" y="380" width="700" height="170" rx="10" fill="white" stroke="#e2e8f0" stroke-width="2" />
+  
+  <rect x="80" y="410" width="150" height="110" rx="5" fill="#f8fafc" />
+  <text x="100" y="440" font-family="Arial" font-size="14" fill="#64748b">Humidity</text>
+  <text x="100" y="470" font-family="Arial" font-size="24" fill="#334155">62%</text>
+  <text x="100" y="500" font-family="Arial" font-size="14" fill="#94a3b8">💧</text>
+  
+  <rect x="250" y="410" width="150" height="110" rx="5" fill="#f8fafc" />
+  <text x="270" y="440" font-family="Arial" font-size="14" fill="#64748b">Wind</text>
+  <text x="270" y="470" font-family="Arial" font-size="24" fill="#334155">8 mph</text>
+  <text x="270" y="500" font-family="Arial" font-size="14" fill="#94a3b8">🌬️</text>
+  
+  <rect x="420" y="410" width="150" height="110" rx="5" fill="#f8fafc" />
+  <text x="440" y="440" font-family="Arial" font-size="14" fill="#64748b">UV Index</text>
+  <text x="440" y="470" font-family="Arial" font-size="24" fill="#334155">6</text>
+  <text x="440" y="500" font-family="Arial" font-size="14" fill="#94a3b8">☀️</text>
+  
+  <rect x="590" y="410" width="150" height="110" rx="5" fill="#f8fafc" />
+  <text x="610" y="440" font-family="Arial" font-size="14" fill="#64748b">Pressure</text>
+  <text x="610" y="470" font-family="Arial" font-size="24" fill="#334155">1013 hPa</text>
+  <text x="610" y="500" font-family="Arial" font-size="14" fill="#94a3b8">📊</text>
+</svg> 
