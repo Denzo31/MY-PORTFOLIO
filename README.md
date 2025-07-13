@@ -1,4 +1,4 @@
-# Personal Portfolio Website
+# My Personal Portfolio Website
 
 A modern, responsive portfolio website built with Next.js, React, TypeScript, and Tailwind CSS. This portfolio showcases my skills, projects, and includes a course registration form.
 
