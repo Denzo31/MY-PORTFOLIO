@@ -16,6 +16,8 @@ export default function AboutPage() {
     { name: 'Spring', logo: '🍃' },
     { name: 'MySQL', logo: '🐬' },
     { name: 'Git', logo: '🔄' }
+    { name: 'PHP', logo: '🐘' }
+    { name: 'JavaScript', logo: '🟨' },
   ];
 
   const softSkills = [

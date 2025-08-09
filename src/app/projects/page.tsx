@@ -36,12 +36,12 @@ const projects = [
   },
   {
     id: 4,
-    title: 'Student Registration System',
-    description: 'A Java-based student registration system with course enrollment, schedule management, and grade tracking.',
-    technologies: ['Java', 'Spring Boot', 'MySQL', 'Thymeleaf'],
+    title: 'Expense Tracker System',
+    description: 'A web-based expense tracker application that helps users manage their income, expenses, and budgets effectively, with features like user registration, transaction logging, and financial reports',
+    technologies: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
     image: '/student registration form.png',
     demoLink: 'https://example.com/demo4',
-    githubLink: 'https://github.com/username/project4'
+    githubLink: 'https://github.com/Denzo31/Expense-Tracker-System'
   }
 ];
 
