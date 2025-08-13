@@ -20,7 +20,7 @@ export default function Footer() {
           <div className="flex flex-col md:flex-row items-center space-y-4 md:space-y-0 md:space-x-6">
             <div className="flex space-x-4">
               <Link 
-                href="https://github.com/Denzo31" 
+                href="https://github.com/devderrickshema" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-600 dark:text-gray-300 hover:text-indigo-500 dark:hover:text-indigo-400 transition-colors duration-300"
