@@ -103,7 +103,7 @@ export default function AboutPage() {
               </h3>
               <div className="flex space-x-4">
                 <Link 
-                  href="https://github.com/Denzo31" 
+                  href="https://github.com/devderrickshema" 
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center space-x-2 text-gray-700 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors duration-300"
